@@ -15,7 +15,7 @@ Causal Inference in R by Malcolm Barrett, Lucy D’Agostino McGowan, Travis Gerk
 
 YouTube course by Brady Neal: https://www.youtube.com/c/BradyNealCausalInference
 
-**Visual Guides**
+**Visual guides**
 
 For G-computation, Inverse Probability Weighting, Targeted Maximum Likelihood Estimation, and SuperLearning:
 Visual Guides for Causal Inference by Kat Hoffman (2019): https://www.khstats.com/art/illustrations_viz
